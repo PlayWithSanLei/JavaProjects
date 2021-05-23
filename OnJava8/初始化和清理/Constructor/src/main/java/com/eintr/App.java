@@ -1,13 +1,12 @@
+/**
+ * @author : eintr
+ * @created : 2021-05-23
+ */
 package com.eintr;
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+public class App {
+  public static void main(String[] args) {
+        Flower x = new Flower();
+        x.printPetalCount();
+  }
 }
