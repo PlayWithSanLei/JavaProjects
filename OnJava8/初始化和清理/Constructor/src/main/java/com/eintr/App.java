@@ -5,9 +5,15 @@
 package com.eintr;
 
 public class App {
-  static House h = new House();
   public static void main(String[] args) {
-    new House();
-    h.f();
+    Other.main(new String[]{"Hello", "World", "!!!"});
+  }
+}
+
+class Other {
+  public static void main(String []Args) {
+    for (String i : Args) {
+      System.out.printf("%s ", i);
+    }
   }
 }
