@@ -5,8 +5,9 @@
 package com.eintr;
 
 public class App {
+  static House h = new House();
   public static void main(String[] args) {
-        Flower x = new Flower();
-        x.printPetalCount();
+    new House();
+    h.f();
   }
 }
