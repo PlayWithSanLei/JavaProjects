@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="com.eintr.AppTest" time="0.003" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="com.eintr.AppTest" time="0.004" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.11+9"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk/lib"/>
-    <property name="maven.multiModuleProjectDirectory" value="/home/yixingwei/Projects/JavaProjects/OnJava8/初始化和清理/Constructor"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/eintr/Projects/JavaProjects/OnJava8/初始化和清理/Constructor"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="https://openjdk.java.net/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="path.separator" value=":"/>
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
     <property name="sun.os.patch.level" value="unknown"/>
-    <property name="user.country" value="US"/>
+    <property name="user.country" value="CN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/home/yixingwei/Projects/JavaProjects/OnJava8/初始化和清理/Constructor"/>
-    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="user.dir" value="/home/eintr/Projects/JavaProjects/OnJava8/初始化和清理/Constructor"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="java.runtime.version" value="11.0.11+9"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
     <property name="os.arch" value="amd64"/>
@@ -32,20 +32,20 @@
     <property name="java.class.version" value="55.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="5.10.36-2-MANJARO"/>
+    <property name="os.version" value="5.12.4-arch1-2"/>
     <property name="library.jansi.path" value="/opt/maven/lib/jansi-native"/>
-    <property name="user.home" value="/home/yixingwei"/>
+    <property name="user.home" value="/home/eintr"/>
     <property name="user.timezone" value="Asia/Shanghai"/>
     <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="java.specification.version" value="11"/>
-    <property name="user.name" value="yixingwei"/>
+    <property name="user.name" value="eintr"/>
     <property name="java.class.path" value="/opt/maven/boot/plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="11"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean package"/>
     <property name="java.home" value="/usr/lib/jvm/java-11-openjdk"/>
-    <property name="user.language" value="en"/>
+    <property name="user.language" value="zh"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
     <property name="java.vm.info" value="mixed mode"/>
@@ -60,5 +60,5 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.eintr.AppTest" name="testApp" time="0.003"/>
+  <testcase classname="com.eintr.AppTest" name="testApp" time="0.004"/>
 </testsuite>
