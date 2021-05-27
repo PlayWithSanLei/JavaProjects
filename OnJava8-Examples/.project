@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>OnJava8-Examples-master</name>
-	<comment></comment>
+	<comment>Project OnJava8-Examples-master created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
 	</buildSpec>
 	<natures>
+		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1622122352359</id>
+			<id>1622033956881</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
