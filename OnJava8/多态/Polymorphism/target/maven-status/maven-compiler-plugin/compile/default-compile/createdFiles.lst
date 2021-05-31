@@ -1,12 +1,15 @@
 com/eintr/FieldAccess.class
+com/eintr/Decription.class
 com/eintr/Woodwind.class
 com/eintr/Wind.class
+com/eintr/Frog.class
 com/eintr/Brass.class
 com/eintr/constructor/Sandwich.class
 com/eintr/Shape.class
 com/eintr/constructor/Lunch.class
 com/eintr/Square.class
 com/eintr/constructor/Bread.class
+com/eintr/Characteristic.class
 com/eintr/App.class
 com/eintr/Shapes.class
 com/eintr/Sub.class
