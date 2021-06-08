@@ -18,12 +18,13 @@ com/eintr/constructor/Meal.class
 com/eintr/Circle.class
 com/eintr/Instrument.class
 com/eintr/Music.class
-com/eintr/Note.class
+com/eintr/constructor/Frog.class
 com/eintr/RandomShape.class
+com/eintr/Note.class
 com/eintr/constructor/Cheese.class
 com/eintr/Percussion.class
-com/eintr/StaticSuper.class
 com/eintr/Super.class
+com/eintr/StaticSuper.class
 com/eintr/constructor/Lettuce.class
 com/eintr/constructor/PortableLunch.class
 com/eintr/Stringed.class
